@@ -22,4 +22,4 @@ for _ in 0..<10000 {
 
 group.wait()  // Waits for all asynchrnous executions to finish
 
-print("Valor final: \(counter.value)") // Impredictible result. Oftenly below 10000.
+print("Final value: \(counter.value)") // Impredictible result. Oftenly below 10000.
