@@ -1,0 +1,29 @@
+# Xcode
+*.xcodeproj/project.xcworkspace/
+xcuserdata/
+DerivedData/
+build/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Swift Packages
+Package.resolved
+.swiftpm/
+
+# Dependencias
+Pods/
+Cartfile.resolved
+
+# Logs/Debug
+*.log
+crashlogs/
+
+# Entornos
+.env
+.env.local
+.env.*.local
