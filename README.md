@@ -1,8 +1,8 @@
 # Swift Concurrency Explained
 
-Welcome to **Swift Concurrency Explained**, an open-source educational repository designed to help you master Swift's modern concurrency model.
+Welcome to **Swift Concurrency Explained**, an educational repository designed to help you master Swift's modern concurrency model.
 
-You can find the course and tutorials in the [course website](https://www.swiftconcurrencyexplained.com).
+You can find the course and tutorials in the [website](https://www.swiftconcurrencyexplained.com).
 
 ## Course structure
 
