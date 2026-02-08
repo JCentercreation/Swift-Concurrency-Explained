@@ -15,6 +15,7 @@ This course is focused on Swift structured concurrency and will be updated along
 - Chapter 3: Tasks
 - Chapter 4: Sendable
 - Chapter 5: Actors
+- Chapter 6: Performance
 
 ## Community & Discussions
 
